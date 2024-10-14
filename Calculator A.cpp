@@ -5,7 +5,7 @@
  Team Coordinator: Elias Martinez
 
  Collaborator #1: Robert Lopez
- Collaborator #2: [Student's name]
+ Collaborator #2: Cesear Martinez
 
 *******************************************************************************/
 #include <iostream>
